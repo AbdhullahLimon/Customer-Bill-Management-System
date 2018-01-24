@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,li{
+    list-style-type: none;
+}
+img{
+    border-image: none;
+}
+.clr{
+    clear: both;
+}
+.table_width{
+    width: max-content;
+    text-align: -webkit-center;
+    font-size: 18px;
+    color: darkgreen;
+    font-weight: 600;
+}
+/*------WRAPPER PART-------*/
+.wrapper{
+    width: 100%;
+    background-color: darkgrey;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 1px solid;
+    border-bottom-color: azure;
+}
+/*--------wrapper_text------*/
+.wrapper h1{
+        font-size: 25px;
+    color: dimgrey;
+    font-weight: bolder;
+    letter-spacing: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+/*-----------table part start--------*/
+/*------------1st tr th--------------*/
+.table tr th{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+
+
